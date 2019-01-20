@@ -21,7 +21,7 @@ input::-webkit-input-placeholder {
 }
 
 .main-login{
-    background-color: #1C728A;
+    background-color: rgb(231, 122, 204);
    /* shadows and rounded borders */
    -moz-border-radius: 5px;
    -webkit-border-radius: 5px;
