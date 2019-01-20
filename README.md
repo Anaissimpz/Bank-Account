@@ -1,7 +1,7 @@
 ## Bank Account program, 19th January 2019
 
 ## Author
-Wihogora Wivine
+Anais Simpenzwe
 
 ## Description
 This is a bank account program
@@ -20,6 +20,6 @@ This program will help the user to create account and put his initial balance, a
 ## Support and contact details
 If u have any question u can contact me on:
 
-* Tel:+250788716357 
-* Email:wwihogora@gmail.com
+* Tel:+250783711066
+* Email:anaissimpenzwe@gmail.com
 
