@@ -7,7 +7,7 @@ Anais Simpenzwe
 This is a bank account program
 
 ## Link to site
-https://wihogora.github.io/Bank-account/
+ https://anaissimpz.github.io/Bank-account/
 
 ## BDD
 This program will help the user to create account and put his initial balance, and deposit,withdraw to his account and then see the current balance.
